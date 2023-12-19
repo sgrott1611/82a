@@ -8,7 +8,7 @@ Concatene o primeiro e último nome para imprimir o nome inteiro da pessoa no co
 
 Digite a linha: "firstNameconcat(lastName)"
 */
-var fullName = concat
+var fullName = firstName.concat(lastName)
 console.log(fullName)
 
 var a = 10
